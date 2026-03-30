@@ -1,4 +1,4 @@
-# Zavet-Sec-NetworkInventory
+# ZavetSec-NetworkInventory
 
 > **PowerShell network scanner and asset inventory for SOC/IR teams — no installation, no dependencies, runs fully offline.**
 >
@@ -15,8 +15,8 @@
 ## Quick Start
 
 ```powershell
-git clone https://github.com/zavetsec/Zavet-Sec-NetworkInventory
-cd Zavet-Sec-NetworkInventory
+git clone https://github.com/zavetsec/ZavetSec-NetworkInventory
+cd ZavetSec-NetworkInventory
 .\Get-NetworkInventory.ps1 -Subnets '192.168.1.0/24'
 ```
 
@@ -35,7 +35,7 @@ HTML report and CSV are saved in the script directory automatically.
 
 ## Why not Nmap?
 
-| | Zavet-Sec-NetworkInventory | Nmap |
+| | ZavetSec-NetworkInventory | Nmap |
 |---|---|---|
 | Installation required | ❌ No | ✅ Yes |
 | Native Windows / PowerShell | ✅ | ⚠️ Requires install |
@@ -296,7 +296,7 @@ If you find this tool useful in your work, consider giving it a star — it help
 
 ## Part of ZavetSec Toolkit
 
-`Zavet-Sec-NetworkInventory` is part of the [ZavetSec](https://github.com/zavetsec) open-source DFIR and InfoSec toolkit — self-contained, dependency-free tools built for Windows SOC environments.
+`ZavetSec-NetworkInventory` is part of the [ZavetSec](https://github.com/zavetsec) open-source DFIR and InfoSec toolkit — self-contained, dependency-free tools built for Windows SOC environments.
 
 | Tool | Description |
 |---|---|
