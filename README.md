@@ -27,9 +27,7 @@ HTML report and CSV are saved in the script directory automatically.
 
 ## Report Preview
 
-![HTML Report](docs/report.png)
-
-> *Report preview will be added in the next update. Place your screenshot at `docs/report.png`.*
+<img width="1866" height="880" alt="image" src="https://github.com/user-attachments/assets/68333505-7265-4919-a7f8-fc679ade2957" />
 
 ---
 
